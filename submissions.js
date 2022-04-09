@@ -1,23 +1,26 @@
 const findSum = function(array) {
-  // your code here - don't forget to return a number!
+  return array
 };
 
+var sum = findSum([2 + 4 + 6]);
+console.log(sum);
+
 const findFrequency = function(array) {
-  // your code here - don't forget to return an object!
+  return array
 };
 
 const isPalindrome = function(str) {
-  // your code here - don't forget to return a boolean!
+  return str
 };
 
 const largestPair = function(array) {
-  // your code here - don't forget to return a number!
+  return array
 };
 
 const removeParenth = function(str) {
-  // your code here - don't forget to return a string!
+  return str
 };
 
 const scoreScrabble = function(str) {
-  // your code here - don't forget to return a number!
+  return str
 };
